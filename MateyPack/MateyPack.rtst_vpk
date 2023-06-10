@@ -1,0 +1,1065 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AchievementSettings>
+  <ACHIEVEMENTDATA>
+    <PACK_NAME></PACK_NAME>
+    <AUTHOR>KOTV</AUTHOR>
+    <DESCRIPTION>MateyPack v1.0
+	HONKHONKHONK69
+	WeeBootie	
+	xBRITISHxM8x: 	
+	
+[AC] </DESCRIPTION>
+    <BACKGROUND_IMAGE>default</BACKGROUND_IMAGE>
+    <BACKGROUND_IMAGE_DISABLE>false</BACKGROUND_IMAGE_DISABLE>
+    <DATA>
+      <ACHIEVEMENT>
+        <NAME>SESSION_STARTED</NAME>
+        <PATH>.\MateyPack\HailBHO.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>SESSION_ENDED</NAME>
+        <PATH>.\MateyPack\AHH_BUT_GOOD_JOB.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>SESSION_RESUMED</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>SESSION_SAVED</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>PER_KILL</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>HEAD_SHOT</NAME>
+        <PATH>.\MateyPack\hmmhohu.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>MAX_DOWN</NAME>
+        <PATH>.\MateyPack\Those_fucking_MAXes.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>HUMILIATION</NAME>
+        <PATH>.\MateyPack\Baldwin.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>TEAM_KILLER</NAME>
+        <PATH>.\MateyPack\DestroyTheCommunity.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>PREVENT_FF</NAME>
+        <PATH>.\MateyPack\SorryTeamkills.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>WHOSE_SIDE</NAME>
+        <PATH>.\MateyPack\FuckME.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>NICE_THINGS</NAME>
+        <PATH>.\MateyPack\Nice_Things.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>KILLING_SPREE</NAME>
+        <PATH>.\MateyPack\KidsDogsEverything.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>DOMINATING</NAME>
+        <PATH>.\MateyPack\WOW.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>UNSTOPPABLE</NAME>
+        <PATH>.\MateyPack\THAT_WAS_BEAUTIFUL_MATEYS.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>WICKED_SICK</NAME>
+        <PATH>.\MateyPack\GodHaveMercy.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>GOD_LIKE</NAME>
+        <PATH>.\MateyPack\KITV_TAKE_THEM_DOWN_MATEYS.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>ONE_PLATOON</NAME>
+        <PATH>.\MateyPack\KITV_TAKE_THEM_DOWN_MATEYS.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>ONE_MAN_EMPIRE</NAME>
+        <PATH>.\MateyPack\One_Man_Empire.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>ONE_MAN_ONE_MISSION</NAME>
+        <PATH>.\MateyPack\One_Man_Mission.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>ONE_MAN_FARM</NAME>
+        <PATH>.\MateyPack\One_Man_Farm.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>REPEAT_CUSTOMER</NAME>
+        <PATH>.\MateyPack\WhyDoHeEvenBovver.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>THINK_THEYD_LEARN</NAME>
+        <PATH>.\MateyPack\HumanTrash.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>DOMINATION</NAME>
+        <PATH>.\MateyPack\indian.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>RECURSION</NAME>
+        <PATH>.\MateyPack\Recursion.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>RECURSIVE_RECURSION</NAME>
+        <PATH>.\MateyPack\Recursive.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>CAUTIOUS_PRACTITIONER</NAME>
+        <PATH>.\MateyPack\AllOurBoysAreDown.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>MASTER_MEDIC</NAME>
+        <PATH>.\MateyPack\ResGrenadesOnPoint.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>SHADOW_HEALER</NAME>
+        <PATH>.\MateyPack\DammitMedics.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>DO_NO_HARM</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>MAIN_HEALER</NAME>
+        <PATH>.\MateyPack\Kissyourmother.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>HEALS_REAL</NAME>
+        <PATH>.\MateyPack\IHavePeople.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>LIFE_FORCE</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>BASTION</NAME>
+        <PATH>.\MateyPack\ChikChok.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>ENERGIZER</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>MEND_AND_DEFEND</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>PATCHWORKER</NAME>
+        <PATH>.\MateyPack\SomebodyFixMeUp.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>MECHANIZED_MENDING</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>NANITESMITH</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>SUPPLY_DEMAND</NAME>
+        <PATH>.\MateyPack\whatisthis.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>ARMS_DEALER</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>MERCHANT_OF_DEATH</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>COUNTER_TERRORISTS</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>MINE_SWEEPER</NAME>
+        <PATH>.\MateyPack\DamnYou.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>INTERLINKED</NAME>
+        <PATH>.\MateyPack\RedDot.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>SIDE_KICK</NAME>
+        <PATH>.\MateyPack\goddammit.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>OVERWATCH</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>SUSTAINING_FORCE</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>RAPID_FIRE_REVIVAL</NAME>
+        <PATH>.\MateyPack\sogood.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>MIRACLE_WORKER</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>ZOMBIE_SUMMONER</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>ACCURACY</NAME>
+        <PATH>.\MateyPack\WeAreProfessionals.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>IMPRESSIVE</NAME>
+        <PATH>.\MateyPack\I_dont_care_actually_I_do.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>SHARP_SHOOTER</NAME>
+        <PATH>.\MateyPack\Sharp_Shooter.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>MARKSMAN</NAME>
+        <PATH>.\MateyPack\Marksman.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>HEAD_HUNTER</NAME>
+        <PATH>.\MateyPack\Head_Hunter.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>LOBOTOMIST</NAME>
+        <PATH>.\MateyPack\Lobotomist.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>KNIFE_FIGHT</NAME>
+        <PATH>.\MateyPack\Knife_Fight.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>HIGH_ROLLER</NAME>
+        <PATH>.\MateyPack\High_Roller.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>EASY_MODE</NAME>
+        <PATH>.\MateyPack\exactly_like_random_newbies.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>HARD_MODE</NAME>
+        <PATH>.\MateyPack\WE_OWN_THEEM.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>NIGHTMARE</NAME>
+        <PATH>.\MateyPack\Nightmare.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>IMPRESS_MYSELF</NAME>
+        <PATH>.\MateyPack\Impress_Myself.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>ROCKET_PRIMARY</NAME>
+        <PATH>.\MateyPack\Rocket_Primary.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>MASTER_JUGGLER</NAME>
+        <PATH>.\MateyPack\Master_Juggler.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>ICED</NAME>
+        <PATH>Default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>FIRE</NAME>
+        <PATH>Default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>ARMORED_ASSAULT</NAME>
+        <PATH>.\MateyPack\JewBoyLightning.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>BLITZKRIEG</NAME>
+        <PATH>.\MateyPack\FuckingJ.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>NERFED</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>VIP_TEAM_KILL</NAME>
+        <PATH>Default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>VIP_KILL</NAME>
+        <PATH>Default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>REVENGE</NAME>
+        <PATH>.\MateyPack\200EurosMatey.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>PRESENT</NAME>
+        <PATH>.\MateyPack\Present.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>WATCH_YOUR_STEP</NAME>
+        <PATH>.\MateyPack\Watch_Your_Step.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>LAWNMOWER</NAME>
+        <PATH>.\MateyPack\Lawnmower.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>HARVESTER</NAME>
+        <PATH>.\MateyPack\Harvester.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>DEATH_STREAK</NAME>
+        <PATH>.\MateyPack\TheySeeMeAndTheyKillMe.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>BEING_FARMED</NAME>
+        <PATH>.\MateyPack\we_got_owned_hahaha.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>DEATH_INSULT</NAME>
+        <PATH>.\MateyPack\Death_Insult.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>POOR_CHOICES</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>MALPRACTICE</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>CARE_BEAR</NAME>
+        <PATH>Default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>MUTUAL</NAME>
+        <PATH>.\MateyPack\FUCKINGDIE.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>TERRORISTS</NAME>
+        <PATH>.\MateyPack\Terrorists_Win.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>SUICIDE_BOMBER</NAME>
+        <PATH>.\MateyPack\HippieCulture.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>WELCOME_KILL</NAME>
+        <PATH>.\MateyPack\Welcome_Kill.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>PIZZA_DELIVERY</NAME>
+        <PATH>.\MateyPack\Pizza_Delivery.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>ROAD_KILL</NAME>
+        <PATH>.\MateyPack\KidsDogsEverything.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>QUAD_DAMAGE</NAME>
+        <PATH>.\MateyPack\Quad_Damage.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>ROAD_RAGE</NAME>
+        <PATH>.\MateyPack\Road_Rage.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>DEATH_FROM_ABOVE</NAME>
+        <PATH>.\MateyPack\WhatAreYouDoingDayBreak.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>BOMBARDIER</NAME>
+        <PATH>.\MateyPack\Bombardier.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>SCOURGE_OF_SKIES</NAME>
+        <PATH>.\MateyPack\Scourge_of_Skies.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>ACE</NAME>
+        <PATH>.\MateyPack\Ace.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>TOP_GUN</NAME>
+        <PATH>.\MateyPack\Top_Gun.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>SUPERMAN</NAME>
+        <PATH>.\MateyPack\Superman.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>JUGGERNAUGHT</NAME>
+        <PATH>.\MateyPack\Juggernaught.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>MAXIMUM_DAMAGE</NAME>
+        <PATH>.\MateyPack\Maximum_Damage.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>BOOMSTICKS</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>DAKKA</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>ZOE_ZOE</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>STEEL_RAIN</NAME>
+        <PATH>.\MateyPack\Steel_Rain.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>SHOOT_NEEDLE</NAME>
+        <PATH>Default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>DECIMATION</NAME>
+        <PATH>.\MateyPack\Decimation.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>FLYSWATTER</NAME>
+        <PATH>.\MateyPack\GUN_HIM_DOWN_LIKE_TRASH.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>EXPLOSIVE_EFFICIENCY</NAME>
+        <PATH>.\MateyPack\Explosive_Efficiency.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>FRAGASM</NAME>
+        <PATH>.\MateyPack\Fragasm.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>PISTOL_WHIPPED</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>RUN_AND_HANDGUN</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>SIDEARM_SLAYER</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>COMMISSIONER</NAME>
+        <PATH>.\MateyPack\Commissioner.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>EXECUTIONER</NAME>
+        <PATH>.\MateyPack\KillEmInTheBaa.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>EXPLODING_FIST</NAME>
+        <PATH>.\MateyPack\Exploding_Fist.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>PRECIPICE</NAME>
+        <PATH>.\MateyPack\Precipice.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>GUN_BIGGER</NAME>
+        <PATH>.\MateyPack\Gun_Bigger.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>BATMAN</NAME>
+        <PATH>.\MateyPack\Batman.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>CHEATER</NAME>
+        <PATH>.\MateyPack\Cheater.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>FATALITY</NAME>
+        <PATH>.\MateyPack\monkey.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>DOUBLE_KILL</NAME>
+        <PATH>.\MateyPack\HELL_YEAH.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>TRIPLE_KILL</NAME>
+        <PATH>.\MateyPack\EPIC_NICE_JOB.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>MULTI_KILL</NAME>
+        <PATH>.\MateyPack\ElbowIntoBodyPumpPump.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>MEGA_KILL</NAME>
+        <PATH>.\MateyPack\GET_THAT_LITTLE_BITCH.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>ULTRA_KILL</NAME>
+        <PATH>.\MateyPack\MIKE_GET_EM.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>MONSTER_KILL</NAME>
+        <PATH>.\MateyPack\GodHaveMercy.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>LUDICROUS_KILL</NAME>
+        <PATH>.\MateyPack\Oh_god_yes_push.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>HOLY_SHIT</NAME>
+        <PATH>.\MateyPack\PanicMode.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>RAGE_QUIT</NAME>
+        <PATH>.\MateyPack\MIKE_7_mp3cut.net.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>SUBMISSION</NAME>
+        <PATH>.\MateyPack\MIKE_7.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>FIRST_BLOOD</NAME>
+        <PATH>.\MateyPack\First_Blood.ogg</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+      <ACHIEVEMENT>
+        <NAME>INSTANT_ACTION</NAME>
+        <PATH>default</PATH>
+        <IMAGE_INGAME>true</IMAGE_INGAME>
+        <IMAGE_STREAMING>true</IMAGE_STREAMING>
+        <SOUND>true</SOUND>
+        <BasicDynamicSoundManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+      </ACHIEVEMENT>
+    </DATA>
+  </ACHIEVEMENTDATA>
+</AchievementSettings> 
